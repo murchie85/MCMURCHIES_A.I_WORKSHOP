@@ -16,3 +16,8 @@ pandas
 statsmodels
 xlrd
 pydotplus
+
+
+# STATISTICS BASICS REFRESHER 
+
+![mean](https://ecdn.teacherspayteachers.com/thumbitem/Mean-Median-Mode-Range-FREEBIE-1406398210/original-593996-4.jpg)
