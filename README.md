@@ -15,7 +15,8 @@
 # INTRODUCTION
 
  
-You will have heard the terms A.I, Machine Learning, Deep Learning, Neural Networks and so on - they are all related at some level. One of the key features they have in common is unlike all other forms of programming, intelligence isn't architected into the system, rather the system is architected so it can become 'intelligent'.   
+You will have heard the terms A.I, Machine Learning, Deep Learning, Neural Networks and so on - they are all related at some level. One of the key features they have in common is unlike all other forms of programming, intelligence isn't architected into the system, rather the system is architected so it can become 'intelligent'.     
+  
  What does this actually mean though? Consider you were building a chatbot, traditionally you would consider all the scenarios a customer would interact with it, i.e. greetings, answering a question, asking customer for more infomation etc. It might look something like this *(not it is sudo code only)*: 
 
 ```
