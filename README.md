@@ -29,8 +29,9 @@ pydotplus
 
 ![mean](images/MEAN.png)
 
+# PANDAS SUMMARY 
 
-# KEY PANDAS COMMANDS
+## KEY PANDAS COMMANDS
 
 
 | Function        | Command           | 
@@ -46,7 +47,7 @@ pydotplus
 
 
 
-# PANDAS SUMMARY 
+
 
 ## PANDAS TO GRAPH
 
