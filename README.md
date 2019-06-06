@@ -3,6 +3,13 @@
 ![MCMURCHIE](title.png)
 
 
+# LEARNING OUTCOMES
+
+1. [BASE REQUIREMENTS](#BASE-REQUIREMENTS)
+2. [PANDAS SUMMARY](#PANDAS-SUMMARY)
+
+
+
 ## BASE REQUIREMENTS 
 
 1. Knowledge of Python
@@ -20,7 +27,7 @@ pydotplus
 
 # STATISTICS BASICS REFRESHER 
 
-![mean](https://ecdn.teacherspayteachers.com/thumbitem/Mean-Median-Mode-Range-FREEBIE-1406398210/original-593996-4.jpg)
+![mean](MEAN.png)
 
 
 # KEY PANDAS COMMANDS
@@ -42,6 +49,8 @@ pydotplus
 ### get value count
 `df['Level of Education'].value_counts`
 
+
+# PANDAS SUMMARY 
 
 ## PANDAS TO GRAPH
 
