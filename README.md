@@ -36,7 +36,12 @@ Clearly this can become both complex and tedious what if the customer doesn't as
 
 
  ![AI CHATBOT](images/ship.png)
- 
+   
+
+*Noting the above diagram* rather than write code to cover every scenario we can consieve, we feed the code a large volume of sample conversations that customers have had with our staff *(when say opening an account)*. The more samples we give it, the more scenarios it will know how to respond to. Once the model has been trained on all the input conversations, we test it against other sample conversations (that we kept aside), if the model doesn't perform and fails to answer all questions in the right way, then the model must undergo more training either adding more conversations or changing the way it trains. If the model passes the tests then we can package and ship the model for deployment ready for end users. 
+
+
+
 
 ## BASE REQUIREMENTS 
 
