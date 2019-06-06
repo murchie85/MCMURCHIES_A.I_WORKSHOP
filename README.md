@@ -27,7 +27,7 @@ pydotplus
 
 # STATISTICS BASICS REFRESHER 
 
-![mean](images/MEAN.png)
+![mean](images/MEANS.png)
 
 
 # KEY PANDAS COMMANDS
