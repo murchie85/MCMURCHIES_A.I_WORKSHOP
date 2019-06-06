@@ -83,7 +83,7 @@ print(ages)
 
  # HOW TO READ A HISTOGRAM
 
- ![](hist.png)
+ ![](images/hist.png)
   
 
 - 4 arrivals per minute happens about 13 times
@@ -91,21 +91,21 @@ print(ages)
 - So it is very UNLIKKELY to have 1 or 12 arrivals per minute
 
 
-![](variance.png)
+![](images/variance.png)
 
 # POPULATION VS SAMPLE
 
 
-![](pop.png)
+![](images/pop.png)
 
-![](form.png)
+![](images/form.png)
 
-![](graph.png)
+![](images/graph.png)
 
 Above example shows, that anything more than std deviation of 20 (120 / 80) drops of sharply. 
   
 
-![](norm.png)  
+![](images/norm.png)  
 
 # warning
 
@@ -115,6 +115,6 @@ Above example shows, that anything more than std deviation of 20 (120 / 80) drop
 
 # IT IS DIFFERENT FOR DISCRETE DATA   
 
-![](discrete.png)
+![](images/discrete.png)
 
 - WE CAN PUT CONCRETE NUMBERS ON IT OCCURING 
