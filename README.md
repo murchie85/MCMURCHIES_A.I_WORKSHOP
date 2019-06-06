@@ -38,16 +38,20 @@ Clearly this can become both complex and tedious what if the customer doesn't as
  ![AI CHATBOT](images/ship.png)
    
 
-*Noting the above diagram* : rather than write code to cover every scenario we can consieve, we feed the code a large volume of sample conversations that customers have had with our staff *(when say opening an account)*. The more samples we give it, the more scenarios it will know how to respond to. Once the model has been trained on all the input conversations, we test it against other sample conversations (that we kept aside), if the model doesn't perform and fails to answer all questions in the right way, then the model must undergo more training either adding more conversations or changing the way it trains. If the model passes the tests then we can package and ship the model for deployment ready for end users.   
+*Noting the above diagram* : rather than write code to cover every scenario we can conceive, we feed the code a large volume of sample conversations that customers have had with our staff *(when say opening an account)*. The more samples we give it, the more scenarios it will know how to respond to. Once the model has been trained on all the input conversations, we test it against other sample conversations *(that we kept aside)*, if the model doesn't perform and fails to answer all questions in the right way, then the model must undergo more training either adding more conversations or changing the way it trains. If the model passes the tests then we can package and ship the model for deployment ready for end users.   
 
-You are probably thinking *WTF* and have many questions - how does the model train? How does the tests know which are successful? All in good time :)  
+You are probably thinking **WTF** and have many questions - how does the model train? How does the tests know which are successful? All in good time :)  
+
  The one thing I want you to focus on above for now, is what happens when the model fails - as this is the key underlying commonality and fundamental function that almost all neural networks and machine learning algorythms have in common. Let's look at another picture ... keep the above one in the back of your mind for comparison.    
 
   ![BP](images/BP.png)
 
- What you are looking at above, is called a Back propogating neural network, like the other diagram you can see it feeds back onto itself. 
+ What you are looking at above, is called a Back propogating neural network, like the other diagram you can see it feeds back onto itself. Without delving too deep into the mechanics, what is happening here is at the end of the process (the output) is making a guess based on what was fed in *(the sample conversations)* the system compares how the conversation should have gone (frome our test example) versus the guess. Whatever the difference/error is, is then fed back into the system as a 'learning' and it tries again. Usually this happens 10s of thousands of times up to billions depending on the network, computing power etc.  
+
+ Essentially what I want to convey is, every loop around the circuit results in a smaller error. This is how the system learns. By comparing expected versus actual, then using the difference to steer the system in the right direction
 
 ## BASE REQUIREMENTS 
+
 
 1. Knowledge of Python
 2. Install Jupyter Notebooks 
