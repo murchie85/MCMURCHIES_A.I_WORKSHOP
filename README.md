@@ -28,7 +28,14 @@ if customer asks 'what time is it':
 if customer asks 'can I open an account?':
     return (ask customer for their details)
 ```
+  
+Clearly this can become both complex and tedious what if the customer doesn't ask *'what time is it'* but *'can you tell me the time'* dealing with all the different ways someone might ask a question is hard enough. Now imagine trying to architect for all the scenarious in say a banking bot, or a customer service chatbot. To make matters worse, there is order of questions/answers to consider.
+  
+ 
+ What would the A.I/Machine learning equivalent look like?  
 
+
+ ![AI CHATBOT](images/ship.png)
  
 
 ## BASE REQUIREMENTS 
