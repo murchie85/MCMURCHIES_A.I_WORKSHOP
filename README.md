@@ -25,9 +25,9 @@ pydotplus
 
 # KEY PANDAS COMMANDS
 
-get first  
+### get first   
 `df.head`
- #get last  
+### get last   
 `df.tail`     
 ### get dimensions   
 `df.shape` 
