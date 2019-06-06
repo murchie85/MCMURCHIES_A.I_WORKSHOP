@@ -32,22 +32,18 @@ pydotplus
 
 # KEY PANDAS COMMANDS
 
-### get first   
-`df.head`
-### get last   
-`df.tail`     
-### get dimensions   
-`df.shape` 
-### get full size 
-`df.size`            
-### get columns list  
-`df.columns`             
-### extract target column  
-`df['my_target_column`         
-### sort table by given column  
-`df.sort_values(['my_target_column` 
-### get value count
-`df['Level of Education'].value_counts`
+
+| Function        | Command           | 
+| ------------- |:-------------:| 
+| get first      | `df.head` | 
+| get last      | `df.tail`      |  
+| get dimensions | `df.shape`       |  
+|get full size |`df.size`|
+|get columns list |`df.columns`  |
+|extract target column|`df['my_target_column`  |
+|sort table by given column  |`df.sort_values(['my_target_column` |
+|get value count|`df['Level of Education'].value_counts`|
+
 
 
 # PANDAS SUMMARY 
