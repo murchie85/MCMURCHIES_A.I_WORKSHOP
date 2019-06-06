@@ -19,13 +19,13 @@ You will have heard the terms A.I, Machine Learning, Deep Learning, Neural Netwo
  What does this actually mean though? Consider you were building a chatbot, traditionally you would consider all the scenarios a customer would interact with it, i.e. greetings, answering a question, asking customer for more infomation etc. It might look something like this *(not it is sudo code only)*: 
 
 ```
-when customer logson say hello:
+when **customer-login** say hello:
 
 if customer asks 'what time is it':
-	return (current time )
+	**return** (current time)
 
 if customer asks 'can I open an account?':
-    return (ask customer for their details)
+    **return** (ask customer for their details)
 ```
 
  
