@@ -177,7 +177,9 @@ print(ages)
 
 ![](images/pop.png)
 
-![](images/form.png)
+<p align="center">
+  <img width="460" height="300" src="images/form.png">
+</p>
 
 ![](images/graph.png)
 
