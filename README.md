@@ -6,8 +6,10 @@
 # LEARNING OUTCOMES
 
 1. [INTRODUCTION](#INTRODUCTION)
-2. [BASE REQUIREMENTS](#BASE-REQUIREMENTS)
+2. [BUILD YOUR FIRST NETWORK](#)
 3. [PANDAS SUMMARY](#PANDAS-SUMMARY)
+4. [BASE REQUIREMENTS](#BASE-REQUIREMENTS)
+
   
   
 
@@ -35,7 +37,7 @@ Clearly this can become both complex and tedious what if the customer doesn't as
  What would the A.I/Machine learning equivalent look like?  
 
 
- ![AI CHATBOT](images/ship.png)
+![AI CHATBOT](images/ship.png)
    
 
 *Noting the above diagram* : rather than write code to cover every scenario we can conceive, we feed the code a large volume of sample conversations that customers have had with our staff *(when say opening an account)*. The more samples we give it, the more scenarios it will know how to respond to. Once the model has been trained on all the input conversations, we test it against other sample conversations *(that we kept aside)*, if the model doesn't perform and fails to answer all questions in the right way, then the model must undergo more training either adding more conversations or changing the way it trains. If the model passes the tests then we can package and ship the model for deployment ready for end users.   
@@ -44,26 +46,25 @@ You are probably thinking **WTF** and have many questions - how does the model t
 
  The one thing I want you to focus on above for now, is what happens when the model fails - as this is the key underlying commonality and fundamental function that almost all neural networks and machine learning algorythms have in common. Let's look at another picture ... keep the above one in the back of your mind for comparison.    
 
-  ![BP](images/BP.png)
+![BP](images/BP.png)
 
  What you are looking at above, is called a Back propogating neural network, like the other diagram you can see it feeds back onto itself. Without delving too deep into the mechanics, what is happening here is at the end of the process (the output) is making a guess based on what was fed in *(the sample conversations)* the system compares how the conversation should have gone (frome our test example) versus the guess. Whatever the difference/error is, is then fed back into the system as a 'learning' and it tries again. Usually this happens 10s of thousands of times up to billions depending on the network, computing power etc.  
 
  Essentially what I want to convey is, every loop around the circuit results in a smaller error. This is how the system learns. By comparing expected versus actual, then using the difference to steer the system in the right direction
 
-## BASE REQUIREMENTS 
 
 
-1. Knowledge of Python
-2. Install Jupyter Notebooks 
-3. Install the Below pip requirements 
+# BUILD YOUR OWN NEURAL NETWORK 
+
+Ok hopefully the above made some level of sense, what we are going to do here is get jump right into the deep end *(it’s not that bad)* - and build our own Neural Network. Remember the key feature of this is backward propagation, it will go round many cycles improving itself.
+
+Without further ado, jump to my [blog](https://murchie85.github.io/NeuralNetwork.html) where you can simply just paste the code and run it on your computer. Or (which I strongly suggest) read the blog as well, as it explains each bit of the code. 
+
+Link [here](https://murchie85.github.io/NeuralNetwork.html). 
 
 
-scikit_learn  
-numpy  
-pandas  
-statsmodels  
-xlrd  
-pydotplus  
+
+
 
 
 # STATISTICS BASICS REFRESHER 
@@ -165,3 +166,20 @@ Above example shows, that anything more than std deviation of 20 (120 / 80) drop
 ![](images/discrete.png)
 
 - WE CAN PUT CONCRETE NUMBERS ON IT OCCURING 
+
+
+## BASE REQUIREMENTS 
+
+
+1. Install Python (Any Knowledge of Python strongly desirable)
+2. Install Jupyter Notebooks 
+3. Install the Below pip requirements (run `pip install xxxx` where xxxx is the name of module below)
+
+
+scikit_learn  
+numpy  
+pandas  
+statsmodels  
+xlrd  
+pydotplus  
+
