@@ -61,7 +61,7 @@ You are probably thinking **WTF** and have many questions - how does the model t
 
 # BUILD YOUR OWN NEURAL NETWORK 
 
-Ok hopefully the above made some level of sense, what we are going to do here is get jump right into the deep end *(it’s not that bad)* - and build our own Neural Network. Remember the key feature of this is backward propagation, it will go round many cycles improving itself.
+Ok hopefully the above made some level of sense, what we are going to do here is jump right into the deep end *(it’s not that bad)* - and build our own Neural Network. Remember the key feature of this is backward propagation, it will go round many cycles improving itself.
   
 
 <p align="center">
