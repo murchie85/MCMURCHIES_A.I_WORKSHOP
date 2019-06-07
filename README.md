@@ -186,7 +186,7 @@ print(ages)
 Above example shows, that anything more than std deviation of 20 (120 / 80) drops of sharply. 
   
 
-<p align="center">
+<p align="left">
   <img width="460" height="300" src="images/norm.png">
 </p>
 
@@ -199,7 +199,11 @@ Above example shows, that anything more than std deviation of 20 (120 / 80) drop
 
 # IT IS DIFFERENT FOR DISCRETE DATA   
 
-![](images/discrete.png)
+
+<p align="left">
+  <img width="460" height="300" src="images/discrete.png">
+</p>
+
 
 - WE CAN PUT CONCRETE NUMBERS ON IT OCCURING 
 
