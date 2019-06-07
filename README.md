@@ -6,9 +6,10 @@
 # LEARNING OUTCOMES
 
 1. [INTRODUCTION](#INTRODUCTION)
-2. [BUILD YOUR FIRST NETWORK](#)
-3. [PANDAS SUMMARY](#PANDAS-SUMMARY)
-4. [BASE REQUIREMENTS](#BASE-REQUIREMENTS)
+2. [BUILD YOUR FIRST NETWORK](#BUILD-YOUR-OWN-NEURAL-NETWORK)
+3. [STATISTICS REFRESHER](#STATISTICS-REFRESHER)
+4. [PANDAS SUMMARY](#PANDAS-SUMMARY)
+5. [BASE REQUIREMENTS](#BASE-REQUIREMENTS)
 
   
   
@@ -67,11 +68,32 @@ Link [here](https://murchie85.github.io/NeuralNetwork.html).
 
 
 
-# STATISTICS BASICS REFRESHER 
+# STATISTICS REFRESHER 
 
 ![mean](images/MEAN.png)
 
 # PANDAS SUMMARY 
+
+pandas is an open source, easy-to-use data structures and data analysis tools for the Python programming. In order to run advanced ML code, we need to prepare, sort and clean data first - Pandas is the best for this. Below is just an overview of key commands. 
+
+## SIMPLE EXAMPLE 
+
+Run the below sample in python, so you can see how easy it is to create a table, it may look daunting but all that is happening is on line 1, we are importing the pandas library, line 2 is we are making up values of the table and passing into the variable 'raw_data'. The third command we create the dataframe (df) which is the key feature of pandas and the final line 'df' just prints it out. For more, try out this [tutorial](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_examples/). 
+
+```
+import pandas as pd
+
+raw_data = {'first_name': ['Jason', 'Molly', 'Tina', 'Jake', 'Amy'], 
+        'last_name': ['Miller', 'Jacobson', 'Ali', 'Milner', 'Cooze'], 
+        'age': [42, 52, 36, 24, 73], 
+        'preTestScore': [4, 24, 31, 2, 3],
+        'postTestScore': [25, 94, 57, 62, 70]}
+df = pd.DataFrame(raw_data, columns = ['first_name', 'last_name', 'age', 'preTestScore', 'postTestScore'])
+df
+
+```
+
+
 
 ## KEY PANDAS COMMANDS
 
