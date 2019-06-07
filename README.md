@@ -15,15 +15,15 @@
 # INTRODUCTION
 
  
-You will have heard the terms A.I, Machine Learning, Deep Learning, Neural Networks and so on - they are all related at some level. One of the key features they have in common is unlike all other forms of programming, intelligence isn't architected into the system, rather the system is **architected** so it can become 'intelligent'.     
+You will no doubt have heard the terms **A.I**, **Machine Learning**, **Deep Learning**, **Neural Networks** and so on - they are all related at some level. One of the key features that they all have in common, is unlike all other forms of programming, intelligence isn't architected into the system by a human, rather the system is **architected** *(by a human)* so it can become 'intelligent'.     
 
- What does this actually mean though? Consider you were building a chatbot, traditionally you would consider all the scenarios a customer would interact with it, i.e. greetings, answering a question, asking customer for more infomation etc. It might look something like this *(example sudo code only)*: 
+ What does this actually mean though? Imagine you are building a chatbot, traditionally you would have to consider all the scenarios a customer would interact with it, such as - greetings, answering a question, asking customer for more infomation etc. It might look something like this *(example sudo code only)*: 
 
 ```
-when customer-login say hello:
+when customer-logsin say hello:
 
-if customer asks 'what time is it':
-	return (current time )
+if customer asks 'what time is it?':
+	return (current time)
 
 if customer asks 'can I open an account?':
     return (ask customer for their details)
