@@ -200,7 +200,7 @@ Above example shows, that anything more than std deviation of 20 (120 / 80) drop
 # IT IS DIFFERENT FOR DISCRETE DATA   
 
 
-<p align="left">
+<p align="center">
   <img width="460" height="300" src="images/discrete.png">
 </p>
 
