@@ -60,9 +60,10 @@ You are probably thinking **WTF** and have many questions - how does the model t
 Ok hopefully the above made some level of sense, what we are going to do here is get jump right into the deep end *(it’s not that bad)* - and build our own Neural Network. Remember the key feature of this is backward propagation, it will go round many cycles improving itself.
   
 
-![NN](https://murchie85.github.io/images/bg9.jpg)
-  
-  
+<p align="center">
+  <img src="https://murchie85.github.io/images/bg9.jpg">
+</p>
+
 
 Without further ado, jump to my [blog](https://murchie85.github.io/NeuralNetwork.html) where you can simply just paste the code and run it on your computer. Or (which I strongly suggest) read the blog as well, as it explains each bit of the code. 
 
