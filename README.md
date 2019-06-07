@@ -9,7 +9,8 @@
 2. [BUILD YOUR FIRST NETWORK](#BUILD-YOUR-OWN-NEURAL-NETWORK)
 3. [STATISTICS REFRESHER](#STATISTICS-REFRESHER)
 4. [PANDAS SUMMARY](#PANDAS-SUMMARY)
-5. [BASE REQUIREMENTS](#BASE-REQUIREMENTS)
+5. [STATISTICS THEORY](#STATISTICS-THEORY )
+6. [BASE REQUIREMENTS](#BASE-REQUIREMENTS)
 
   
   
@@ -160,7 +161,9 @@ print(ages)
  37 36 59 81 69 19 87 37 89 47 88 65 77 80 74 38 57 89 58 78]
  ```
 
- # HOW TO READ A HISTOGRAM
+ # STATISTICS THEORY 
+  
+ ## HOW TO READ A HISTOGRAM
 
  ![](images/hist.png)
   
@@ -181,6 +184,12 @@ print(ages)
   <img width="460" height="300" src="images/form.png">
 </p>
 
+
+## CREATE YOUR OWN HISTOGRAM 
+
+Look at the code below, the third command creates the values, 100 = centre point (mean), 20 = standard deviation, 10000 number of samples.  
+  
+  
 ![](images/graph.png)
 
 Above example shows, that anything more than std deviation of 20 (120 / 80) drops of sharply. 
