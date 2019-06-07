@@ -71,8 +71,8 @@ Ok hopefully the above made some level of sense, what we are going to do here is
 
 Without further ado, jump to my [blog](https://murchie85.github.io/NeuralNetwork.html) where you can simply just paste the code and run it on your computer. Or (which I strongly suggest) read the blog as well, as it explains each bit of the code. 
 
-Link [here](https://murchie85.github.io/NeuralNetwork.html). 
-Or watch me do it on ![youtube](https://www.youtube.com/watch?v=NqzU4XSOLVk)
+Link [here](https://murchie85.github.io/NeuralNetwork.html).   
+Or watch me do it on [youtube](https://www.youtube.com/watch?v=NqzU4XSOLVk)
 
 
 
