@@ -5,6 +5,7 @@
 
 # LEARNING OUTCOMES
 
+0. [PROJECTS](#PROJECTS)
 1. [INTRODUCTION](#INTRODUCTION)
 2. [BUILD YOUR FIRST NETWORK](#BUILD-YOUR-OWN-NEURAL-NETWORK)
 3. [STATISTICS REFRESHER](#STATISTICS-REFRESHER)
@@ -13,7 +14,16 @@
 6. [BASE REQUIREMENTS](#BASE-REQUIREMENTS)
 7. [NEURAL NETS IN PYTORCH](PYTORCH/NN_SUMMARY/PYTORCH_NN_SUMMARY.ipynb)
   
+  
 
+# PROJECTS 
+
+- [Kaggle_Titanic](https://github.com/murchie85/Kaggle_Titanic)
+- [Bank_Exit_Modeling](https://github.com/murchie85/Bank_Exit_Modeling)  
+- [银行顾客流失预测模型](https://github.com/murchie85/yinhang-lizhi-renyuan-yuce-moxing)  
+- [TWITTER-REPORT-GENERATOR](https://github.com/murchie85/TWITTER-REPORT-GENERATOR)
+- [IBA intelligent budgeting](https://github.com/murchie85/IBA)
+- [brainmass predictrion](https://github.com/murchie85/Brain-prediction)
 
 # INTRODUCTION
 
