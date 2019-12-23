@@ -24,7 +24,7 @@
 - [TWITTER-REPORT-GENERATOR](https://github.com/murchie85/TWITTER-REPORT-GENERATOR)
 - [IBA intelligent budgeting](https://github.com/murchie85/IBA)
 - [brainmass predictrion](https://github.com/murchie85/Brain-prediction)
-- [Intro-to-ml-kaggle](https://github.com/murchie85/Intro-to-ml-kaggle)
+- [ml_compendium_housing_price_prediction](https://github.com/murchie85/ml_compendium_housing_price_prediction)
 
 # INTRODUCTION
 
