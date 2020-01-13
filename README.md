@@ -19,6 +19,7 @@
 # PROJECTS 
 
 - [Kaggle_Titanic](https://github.com/murchie85/Kaggle_Titanic)
+- [FEATURES ENCODING](https://github.com/murchie85/features_encoding_kaggle)
 - [Bank_Exit_Modeling](https://github.com/murchie85/Bank_Exit_Modeling)  
 - [银行顾客流失预测模型](https://github.com/murchie85/yinhang-lizhi-renyuan-yuce-moxing)  
 - [TWITTER-REPORT-GENERATOR](https://github.com/murchie85/TWITTER-REPORT-GENERATOR)
