@@ -18,14 +18,14 @@
 
 # PROJECTS 
 
-- [Kaggle_Titanic](https://github.com/murchie85/Kaggle_Titanic)
+- [TITANIC_KAGGLE_STARTER](https://github.com/murchie85/Kaggle_Titanic)
 - [FEATURES ENCODING](https://github.com/murchie85/features_encoding_kaggle)
-- [Bank_Exit_Modeling](https://github.com/murchie85/Bank_Exit_Modeling)  
+- [BANK_EXIT_MODELLING](https://github.com/murchie85/Bank_Exit_Modeling)  
 - [银行顾客流失预测模型](https://github.com/murchie85/yinhang-lizhi-renyuan-yuce-moxing)  
 - [TWITTER-REPORT-GENERATOR](https://github.com/murchie85/TWITTER-REPORT-GENERATOR)
 - [IBA intelligent budgeting](https://github.com/murchie85/IBA)
 - [brainmass predictrion](https://github.com/murchie85/Brain-prediction)
-- [ml_compendium_housing_price_prediction](https://github.com/murchie85/ml_compendium_housing_price_prediction)
+- [HOUSE_PRICE_PREDICTIONS](https://github.com/murchie85/ml_compendium_housing_price_prediction)
 
 # INTRODUCTION
 
