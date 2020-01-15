@@ -27,6 +27,15 @@
 - [brainmass predictrion](https://github.com/murchie85/Brain-prediction)
 - [HOUSE_PRICE_PREDICTIONS](https://github.com/murchie85/ml_compendium_housing_price_prediction)
 
+# LATEST CUTTING EDGE RESOURCES
+
+[XAI Explainable AI](https://github.com/EthicalML/xai)
+  
+XAI is a Machine Learning library that is designed with AI explainability in its core. XAI contains various tools that enable for analysis and evaluation of data and models. The XAI library is maintained by The Institute for Ethical AI & ML, and it was developed based on the 8 principles for Responsible Machine Learning.
+
+   
+
+
 # INTRODUCTION
 
  
