@@ -1,6 +1,8 @@
 # ML Compendium
 
-This is a compendium of all my learning from Kaggle distilled into one page. Please don't use this as a primary reference, please go direct to kaggle.com 
+![randomimage](https://velocityglobal.com/wp-content/uploads/2019/02/Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg)
+
+This is a compendium of all my learning from Kaggle distilled into one page. Please don't use this as a ref only and not a primary learning source, please go direct to kaggle.com at the learn section if you wish to gain the full learning experience.  
 
 
 [1] - [Terminology](#Terminology)  
@@ -306,10 +308,29 @@ print("Validation MAE for Random Forest Model: {}".format(MAE))
 
 ```
 
+# Managing Missing Values  
 
-```python
+## Three Approaches   
+  
+### DROP COLUMN 
+  
 
-```
+![](drop1.png)
+  
+**Easiest appraoch** only do this if most values are missing from column or you lose valuable data.  
+
+## Imputation  
+
+![](drop2.png). 
+  
+**BETTER OPTION**  This fills in the missing value with a number (like the mean/average). 
+  
+## Advanced Imputation 
+  
+![](drop3.png)  
+  
+There may be a hidden pattern in the data that's missing *(maybe they are all above a certain threshold)* By adding a flag to notify which values were missing allows for better compute.  
+
 
 # Terminology 
 
